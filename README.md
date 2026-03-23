@@ -1,12 +1,12 @@
 ## Hi I'm Brady 👋
 
 ## Featured Projects
-- 📝 [Static Site Generator](https://github.com/you/ssg) - CLI tool in Python
+- 📝 [Momentum Learning](https://github.com/team-belle-and-thomas/tutoring-center) - Private Tutor / Learning Center Manager
 
 ## Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Frontend
