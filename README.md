@@ -1,4 +1,11 @@
 ## Hi I'm Brady 👋
+Computer Science graduate with hands-on experience building backend systems and APIs using TypeScript, Node.js, and Python.
+
+Recently developed a tutoring management platform with multi-user functionality, progress tracking, and transaction management—focusing on scalable backend architecture and clean, maintainable code.
+
+Experienced with modern web technologies, databases (PostgreSQL, Supabase), and full-stack development. Comfortable working across the entire software development lifecycle from requirements to deployment.
+
+Currently seeking an entry-level software engineering role where I can contribute to building real-world systems and continue growing as a developer
 
 ## Featured Projects
 - 📝 [Momentum Learning](https://github.com/team-belle-and-thomas/tutoring-center) - Private Tutor / Learning Center Manager
