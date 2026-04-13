@@ -8,7 +8,7 @@ I'm currently seeking an entry-level software engineering role where I can contr
 ## Featured Projects
 - 📝 [Momentum Learning](https://github.com/team-belle-and-thomas/tutoring-center) - Private Tutor / Learning Center Manager
 - 📝 [logcli](https://github.com/bthomas218/logcli) - Log Analyzer & Monitoring CLI 
-- 📝 [TL13-To-C-Compiler](https://github.com/bthomas218/logcli) - A compiler for TL13 → C  
+- 📝 [TL13-To-C-Compiler](https://github.com/bthomas218/TL13-To-C-Compiler) - A compiler for TL13 → C  
 
 ## My Favorite Technologies 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
