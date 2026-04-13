@@ -1,5 +1,5 @@
 ## Hi, I'm Brady 👋
-Computer Science graduate building backend systems and APIs with TypeScript, Node.js, and Python.
+I'm a software developer building backend systems and APIs with TypeScript, Node.js, and Python.
 
 I recently built a tutoring management platform with multi-user support, progress tracking, and transaction management. I care about scalable backend architecture and clean, maintainable code.
 
